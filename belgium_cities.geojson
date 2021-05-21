@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "belgium_cities",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bruxelles - Brussel", "population": 153377, "id": 1 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.351697, 50.8465573 ] ] } },
+{ "type": "Feature", "properties": { "name": "Liège", "population": 197013, "id": 2 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 5.5734203, 50.6451381 ] ] } },
+{ "type": "Feature", "properties": { "name": "Hasselt", "population": 75991, "id": 3 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 5.3378043, 50.9303735 ] ] } },
+{ "type": "Feature", "properties": { "name": "Namur", "population": 110691, "id": 4 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.8661892, 50.4665284 ] ] } },
+{ "type": "Feature", "properties": { "name": "Wavre", "population": 33498, "id": 5 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.60845, 50.7162425 ] ] } },
+{ "type": "Feature", "properties": { "name": "Brugge", "population": 117639, "id": 6 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 3.226772, 51.2085526 ] ] } },
+{ "type": "Feature", "properties": { "name": "Mons", "population": 92721, "id": 7 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 3.951958, 50.4549568 ] ] } },
+{ "type": "Feature", "properties": { "name": "Leuven", "population": 102275, "id": 8 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.7011675, 50.879202 ] ] } },
+{ "type": "Feature", "properties": { "name": "Gent", "population": 237000, "id": 9 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 3.7250121, 51.0538286 ] ] } },
+{ "type": "Feature", "properties": { "name": "Antwerpen", "population": 506922, "id": 10 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 4.3997081, 51.2211097 ] ] } },
+{ "type": "Feature", "properties": { "name": "Arlon", "population": 28759, "id": 11 }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 5.8167711, 49.6834601 ] ] } }
+]
+}
